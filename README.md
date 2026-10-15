@@ -206,6 +206,7 @@ This list is maintained by an Informatics student specializing in network securi
 - [Nmap Network Scanning](https://nmap.org/book/) - The official Nmap reference guide, written by its author.
 - [Network Security Assessment, 3rd Edition](https://www.oreilly.com/library/view/network-security-assessment/9781491910955/) - Chris McNab's methodology for testing networks and infrastructure.
 - [Blue Team Handbook: Incident Response Edition](https://www.blueteamhandbook.com/) - Condensed field reference for incident responders and SOC analysts.
+- [Confronto Cibernético](https://confrontocibernetico.com.br/) - Portuguese book on APT investigation and incident response, with public chapter excerpts.
 
 ## Contributing
 
